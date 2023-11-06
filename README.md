@@ -17,8 +17,9 @@ $ git clone https://github.com/daniellsfilho/fa-QTS-TDD-Jokenpo.git
 $ cd ./fa-QTS-TDD-Jokenpo
 
 # Rodar testes da solução
-$ dotnet test ./fa-QTS-tdd-jokenpo/fa-QTS-tdd-jokenpo.csproj
+$ dotnet test ./fa-QTS-tdd-jokenpo/fa-QTS-tdd-jokenpo.csproj --logger "console;verbosity=detailed"
 ```
 
 ## Print dos testes
-![image](https://github.com/daniellsfilho/fa-QTS-TDD-Jokenpo/assets/79336346/4d57a87e-c6be-4dd1-9a7d-3b689e4dbfad)
+![image](https://github.com/daniellsfilho/fa-QTS-TDD-Jokenpo/assets/79336346/8a1afb18-33e5-40e3-8113-eff7fbf5b173)
+
