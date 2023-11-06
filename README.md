@@ -21,5 +21,5 @@ $ dotnet test ./fa-QTS-tdd-jokenpo/fa-QTS-tdd-jokenpo.csproj --logger "console;v
 ```
 
 ## Print dos testes
-![image](https://github.com/daniellsfilho/fa-QTS-TDD-Jokenpo/assets/79336346/8a1afb18-33e5-40e3-8113-eff7fbf5b173)
+![image](https://github.com/daniellsfilho/fa-QTS-TDD-Jokenpo/assets/79336346/748a7ca9-fdfd-4757-be7c-31ddc822c010)
 
