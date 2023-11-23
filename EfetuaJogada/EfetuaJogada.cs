@@ -33,30 +33,5 @@ namespace fa_QTS_tdd_jokenpo
                     return "Valor inválido";
             }
         }
-
-        private string VerificarResultadosTesoura(string escolha2)
-        {
-            switch (escolha2)
-            {
-                case "PAPEL":
-                    return "Venceu!";
-                case "PEDRA":
-                    return "Perdeu!";
-                case "TESOURA":
-                    return "Empate";
-                default:
-                    return "Valor inválido";
-            }
-        }
-
-        private string VerificarResultadosPapel(string escolha2)
-        {
-            throw new NotImplementedException();
-        }
-
-        private string VerificarResultadosPedra(string escolha2)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
