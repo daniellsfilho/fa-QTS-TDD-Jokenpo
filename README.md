@@ -23,3 +23,12 @@ $ dotnet test ./fa-QTS-tdd-jokenpo/fa-QTS-tdd-jokenpo.csproj --logger "console;v
 ## Print dos testes
 ![image](https://github.com/daniellsfilho/fa-QTS-TDD-Jokenpo/assets/79336346/748a7ca9-fdfd-4757-be7c-31ddc822c010)
 
+## Testes de mutação
+```
+# Instalar o dotnet-stryker
+$ dotnet tool install -g dotnet-stryker
+
+# Executar os testes de mutação, com relatório
+$ dotnet stryker --mutation-level complete --open-report
+
+```
