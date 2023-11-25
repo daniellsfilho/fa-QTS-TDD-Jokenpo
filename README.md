@@ -1,4 +1,4 @@
-# Exercício de Fixação sobre TDD
+# Exercício de Fixação sobre TDD + Testes de Mutação
 
 Exercício selecionado do site https://dojopuzzles.com/problems/jokenpo/
 
