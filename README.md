@@ -32,3 +32,6 @@ $ dotnet tool install -g dotnet-stryker
 $ dotnet stryker --mutation-level complete --open-report
 
 ```
+
+## Resultados dos testes de mutação
+![image](https://github.com/daniellsfilho/fa-QTS-TDD-Jokenpo/assets/79336346/4558f50e-9b31-4623-afae-81fc6adaaf13)
